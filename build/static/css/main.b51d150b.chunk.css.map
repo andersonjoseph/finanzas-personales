@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACE,eAAgB,CAChB,gBAAiB,CACjB,WACF,CACA,eACI,aACJ,CACA,iBACI,iBACJ","file":"main.b51d150b.chunk.css","sourcesContent":["#root {\n  min-height: 100%;\n  max-width: 1200px;\n  margin: auto;\n}\na.link:visited {\n    color: #0072c6;\n}\n.responsiveTable {\n    text-align: center;\n}\n"]}
